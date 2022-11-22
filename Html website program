@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shopping Cart</title>
+        <link rel="stylesheet" href="one.css"
+    </head>
+
+    <body>
+    <!--Header-->
+    
+    <div>
+        <p align="left"><img src="./girl.png"  alt="background image"  width="350px" height="250px" /></p>
+
+    </div>
+    <div class="navigation-links">
+        <a href="train.html" class="navigation-link">Home</a>
+        <a href="train.html" class="navigation-link">Shopping</a>
+        <a href="train.html" class="navigation-link">Return</a>
+
+    </div>
+
+
+    <!--Middle-->
+
+
+
+    <!--Footer-->
+    
